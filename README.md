@@ -12,7 +12,7 @@ In general, my skills are; Data Importing, Data Joining, Data Cleaning, Data Ana
 
 🐍 Python Stack
 - Machine Learning: TensorFlow, Scikit-learn, Pytorch
-- COmputer Vision: OpenCV
+- Computer Vision: OpenCV
 - Data Science: Pandas, Numpy
 - Viz Tools: Matplotlib, Seaborn, Plotly
 - Misc Tools: TensorBoard
