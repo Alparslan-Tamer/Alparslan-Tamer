@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alp</h1>
 
 
-I'm a 25 years old Computer Vision practitioner based in Kocaeli. I graduated from Kocaeli University Electronics and Communication Engineering by carrying out my project studies in the field of Image Processing. During my university education and afterward, I worked on Computer Vision, Deep Learning, Machine Learning, and Data Science for about 2 years and I continue to work with enthusiasm.
+I'm a 26 years old Computer Vision practitioner based in Kocaeli. I graduated from Kocaeli University Electronics and Communication Engineering by carrying out my project studies in the field of Image Processing. During my university education and afterward, I worked on Computer Vision, Deep Learning, Machine Learning, and Data Science for about 2 years and I continue to work with enthusiasm.
 
 In general, my skills are; Data Importing, Data Joining, Data Cleaning, Data Analysis, Data Visualization, Model selection, Model Development(TF, Keras, Pytorch), Model Deployment, etc. But mostly I work on Computer Vision problems (Image datasets).
 
